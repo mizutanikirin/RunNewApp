@@ -1,2 +1,4 @@
 # RunNewApp
-C# - Run App
+AIRアプリやUnityアプリを再起動したい時に使います。
+
+このプログラムは外部exeから起動したいexeのパスを受け取ってそのexeを起動します。
